@@ -1,0 +1,105 @@
+[size=20pt]ICO was launched:
+https://www.coinexchange.io/market/HUB/BTC
+[color=green]We hit first 2 BTC goal (creating altcoin tracking service) and reached the necessary minimum![/size]
+
+The mission of the Hubcoin is uniting altcoin developers, creating instruments for them, and providing assistance with investments and promotion.
+Premine was distributed between all the altcoin developers, who agreed to receive it:
+
+Saracenis ([b]Topaz coin[/b]), Belligerent Fool ([b]BenjiRolls[/b]), UsuallyHappens ([b]PartyCoin[/b]), PhoenixWarrior333 ([b]FidgetCoin[/b]),  CryptoWiz420 ([b]Turbostake[/b]), findblocks.com([b]findblocks.com[/b]), AtomicProject ([b]Atomic Coin[/b]), mbmagnat ([b]Evotion[/b]), bumbacoin ([b]BumbaCoin[/b]), victoriouscoin([b]Victoriouscoin[/b]), Bzzzum ([b]Deutsche eMark[/b]), TrollCoins ([b]TrollCoins[/b]), Whitey92d15b7 ([b]GPU Coin[/b]), ACP ([b]AnarchistsPrime[/b]), OBAViJEST ([b]Doubloon[/b]) , soulgate ([b]Virtacoinplus[/b]), joshafest ([b]B3Coin[/b]), LiftOff1969 ([b]UDOWNcoin[/b]), pallas ([b]Cryptonite[/b]), vashshawn([b]corgicoinV2[/b]), DreamCrusherFTW([b]MOZZI[/b]), notnormals([b]InsaneCoin[/b])
+There are giveaway thread, all devs confirmed  Hubcoin team membership and promised to get premine:
+https://bitcointalk.org/index.php?topic=1945355.0
+
+This is an important Hubcoin idea, inspired by NEM https://bitcointalk.org/index.php?topic=422129.0 (2 biilion capitalization for now).
+NEM has proven that experiments with fair coins distribution have great potential.
+While NEM distributes premine between all comers, we only give it to other coin developers.
+Any developer of altcoins is much more skilled in their improvement and promotion than an ordinary user.
+So I strongly believe that a team consisting of dozens of such developers will quickly bring the coin to success.
+
+[size=15pt][color=green]ICO was launched:
+https://www.coinexchange.io/market/HUB/BTC[/color][/size]
+
+Hubcoin was launched 11 July as Ethereum token (Erc-20 Based, but with additional code that limit premine spending).
+[b]It will be impossible to dump premine early, only smoothly spending during 1 year. [/b]
+
+Explorers:
+https://ethplorer.io/address/0x1b166a9db7ccecf27d39bf5895e394818881f895#tab=tab-holders&pageSize=50
+https://etherscan.io/address/0x1b166a9db7ccecf27d39bf5895e394818881f895#code
+
+Source code:
+http://hubcoin.io/Hubcoin_source.txt
+If you want to verify the Source code, just create the same contract with this code on Ethereum wallet.
+(With total supply 3330000000000, 6 decimals, Hubcoin name and Hub ticker)
+Then you can compare bytecode with the Contract Code on https://etherscan.io/address/0x1b166a9db7ccecf27d39bf5895e394818881f895#code
+
+Pre-ann and more information: 
+https://bitcointalk.org/index.php?topic=1944476
+
+Website:
+http://hubcoin.io/
+
+1. 10% Premine was distributed between all the altcoin developers (who agreed to receive it).
+This is the key Hubcoin idea, inspired by NEM https://bitcointalk.org/index.php?topic=422129.0 (1 biilion capitalization for now).
+NEM has proven that experiments with fair coins distribution have great potential.
+There was many other experiments in premine distribution too, between miners, residents of Iceland (Auroracoin) etc.
+[b]We decided to distribute premine between most skilled and useful for coin peoples in the world - another altcoin developers.[/b]
+
+2. Investors usually like startups, coins and projects with strong teams
+
+3. It isnt standart Ethereum token, we have unique technical feature: premine spending is limited by code.
+Developers (and me too) would gradually spend it throughout 1 year, so this will provide a long-term motivation for all team and will prevent early dumps.
+
+4. The mission of the Hubcoin is uniting altcoin developers, creating instruments for them, and providing assistance with investments and promotion.
+This is also quite unique and useful for the whole community.
+
+5. You could use our altcoin creation, hosting, revivng and promotion services and pay with Hubcoin in the future.
+
+
+
+Roadmap for Funds Raised
+
+The Hubcoin is developed and managed by a group of altcoin developers with a strong sense of mutual committment creating synergy. It is a strong team with a full set of complementary skills required to complete and run the project.
+
+The project aims to acheieve the set milestones as per the generated fundings. These are shown below:
+
+
+[color=green]1) [b]2 BTC[/b]: Coin tracking service like coinmarketcap.com or coinwarz will be created. This will offer the user to sort coins by algorithm and will list new coins much faster. [/color]
+
+2) [b]4 BTC[/b]: Hosting for interested altcoin developer will be setup for free and at a small charge of Hubcoin payment it will also be available for
+for non-developers. Additional services like website creation, DDOS defense,etc. will also be provided.
+It will allow the coin creators to add their coins to our above stated services at no cost.
+
+3) [b]6 BTC[/b]:We will create Block Explorers for Altcoins who do not have their own and require one. Coin Creators would be able to add their own coins to our service for free. Premium Features including urgent coin additions and priority coin listing will be available for payment in Hubcoin. 
+
+4) [b]8 BTC[/b]: Pool creation for coins requiring it will be available.
+It will allow the coin creators to add their coins to our above stated services at no cost
+Premium features and priority coin listing will be avaliable for fixed Hubcoin payment.
+
+5) [b]12 BTC[/b]: Node maintainence service will be created at this stage.
+First 3 altcoin developers will get this service for free.
+Later will be available for a little Hubcoin payment.
+
+6) [b]20 BTC[/b]: Desktop and webwallet service will be provided.
+It will be free for altcoin developers.
+Premium features will be available for a fixed Hubcoin payment.
+
+7) [b]30 BTC[/b]: Android  wallet creation service will be available.
+It will be free for altcoin developers.
+Premium features will be available for a fixed Hubcoin payment.
+
+8) [b]50 BTC[/b]: The Hubcoin team will start their own coin creation service.
+It will be free of charges with 10% premine share.
+A strong service will be craeted to support much more algorithm and possibilities than other services.
+Creation of coin without any premine or with custom premine will also be possible at a fixed Hubcoin payment.
+
+9) [b]100 BTC[/b]: Promotional services for coins will be created enabling facilities like voting to secure more recognition. 
+Other promotional services such as press releases, social media, signature campaigns, advertisment, faceouts search for investors, etc. will be provided.
+Sometimes several technically sound and great coins do not get noticed but our promotional services will minimise the risk of coins from being unnoticed.
+Hubcoin owners will be able to vote by paying Hubcoin and choose coins for promotion.
+
+10) [b]200+ BTC[/b]: Reviving support for dead coins(but with important goals and useful ideas) will be provided by repairing stuck block chains, connection issues, hardforks, creating websites, adding block-explorers and services, and a full work on the coin.
+Hubcoin owners will be able to vote by paying Hubcoin and choose coin for reviving every 3 months.
+
+
+
+Our plans are not limited with the road map.
+We will follow our mission and will continue working on Hubcoin anyway, no matter how many funds we will rise.

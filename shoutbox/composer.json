@@ -1,0 +1,13 @@
+{
+    "name": "stbox",
+    "authors": [
+        {
+            "name": "nick",
+            "email": ""
+        }
+    ],
+    "require": {
+         "jamesmoss/flywheel": "0.1.*",
+         "mpratt/relativetime": ">=1.0"
+    }
+}

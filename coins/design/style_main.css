@@ -1,0 +1,117 @@
+@import url("../../css/fonts.css");
+
+
+body {
+    font-family: "merriweather-regular", serif;
+    font-size: 0.9rem;
+    
+     /* background: url(images/intro-bg.jpg) no-repeat center center fixed;
+     overflow-y: scroll;
+     background-size: cover; 
+    min-height: 100%;
+    min-width: 100%; */ 
+} 
+/* used for parallax background img
+#top-image {
+background: url(images/intro-bg.jpg) -25px -50px;
+position:fixed ;
+top:0;
+width:100%;
+z-index:0;
+height:100%;
+background-size: calc(100% + 50px);
+} */
+.strelka, .belka2, .belka, .strelka2{
+    cursor: pointer; cursor:hand;
+    color:           blue;
+    text-decoration: none;
+}
+.strelka:hover{
+    text-decoration: underline;
+}
+
+.logo a{
+    position: absolute;
+    background: url("../../h.png") no-repeat center;
+    background-size: 42px 42px;
+    display: block;
+    margin: 0;
+    padding: 0;
+    border: none;
+    font: 0/0 a;
+    text-shadow: none;
+    
+    width: 42px;
+    height: 42px;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  float: none;
+}
+
+.title{
+    text-align: center;
+}
+
+.link {
+    font-size: 1.2em;
+}
+.clse{
+    font-size: 1.2em;
+}
+a,
+a:link,
+a:active,
+a:visited,
+a:hover {
+    color:           blue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Links to external websites */
+a.external:before {
+    content:         url(./pics/external.png);
+}
+
+.table_block{
+    background: rgba(230,230,230,0.1)
+}
+
+.table-bordered{
+    border: 1px solid #dddddd;
+    border-radius: 5px;
+    border-collapse: separate;
+    border-spacing: 0;
+    border-left: 0;
+}
+.content {
+    width: 90%;
+    margin: 20px auto;
+    color: black;
+}
+
+.forum{
+    width: 150px;
+}
+
+.content table th {
+    font-size: 13px; 
+}
+
+.content table td, th {
+    padding: 3px 5px!important;
+}
+
+.hr{
+    background-image: linear-gradient(to right, rgba(5, 188, 169, 0), rgba(5, 188, 169, 0.75), rgba(5, 188, 169, 0));
+    width: 360px;
+    height: 3px;
+    content: '\0020';
+    border: 0;
+}

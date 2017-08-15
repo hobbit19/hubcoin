@@ -1,0 +1,69 @@
+Very preliminary Roadmap ( spelling and punctuation will be improved)
+
+
+
+We have strong team with confirmed skills.
+Everyone is altcoin developer with own coin, so we have many skill in those tasks and will undoubtedly cope with the plan.
+
+
+2 BTC We will create coin tracking service, like coinmarketcap.com or coinwarz, with sorting by algo and will include new coins much faster there.
+
+4 BTC - We will setup free hosting for altcoin developers who want it.
+Hosting will be able for other peoples too, for payment with Hubcoins.
+We will also provide additional services, like website creation or DDOS defense for Hubcoins.
+
+6 BTC -  We will create explorer for coins, who do not have their own and needs it.
+Coin creators would be able to add their coins to our services for free.     
+Premium features and urgently coin adding will be avaliable for Hubcoin payment.
+
+
+8 BTC -  We will create pool for coins, who do not have their own and needs it.
+Coin creators would be able to add their coins to our services for free.     
+Premium features and urgently coin adding will be avaliable for Hubcoin payment too.
+
+
+12 BTC -  We will create node maintenance services
+First 3 altcoin developers will get it for free / or  First month will be free.
+Then would be avialible for a little Hubcoin payment.
+
+
+20 BTC - We will create desktop + webwallets service, for coins which is need it.
+It will be free for altcoin development.
+Premium features will be avaliable for Hubcoin payment too.
+
+30 BTC We will create android  wallet creation service, for coins which is need it.
+It will be free for altcoin development.
+Premium features will be avaliable for Hubcoin payment too.
+
+
+
+50 BTC we will start our own creation coin service.
+It would be free, but all created coins will be with 10% premine, which will be distributed between Hubcoin owners.
+As premine isnt going to single person, 10% is a form of distribution and this is ok.
+We going to create strong service, that will support more algo and possibilities than others.
+It will be also possible to create coin without any premine or with custom premine for Hubcoin payment.
+
+
+100 BTC - We will begin promotional machine for coins which can be voted on and deserve more recognition. 
+Press releases, social media, signature campaigns, advertisment, faceouts search for investors etc.
+Sometimes many great coins are very sound technically but do not get noticed.
+Hubcoin owners can vote by paying Hubcoin and choose coins for promotion.
+We will take Hubcoins from winner votes, but will return others.
+So Hubcoin owners would be first, who will know which coin we select for promotion and may invest, and may be get good profit.
+We will choose coin for promotion every month.
+
+
+200 btc - We will start reviving coins, with disappeared developers.
+(repair stuck block chain, connection issues hardforks etc)
+Creating websites, adding to our explorers and services, and a full work on the coin like it is our own.
+Hubcoin owners can vote by paying Hubcoin and choose coin for reviving.
+We will take Hubcoins from winner votes, but will return others.
+So Hubcoin owners would be first, who will know which coin we select for promotion 
+We will choose coin for revivng every 3 month.
+
+
+
+300+ btc - We will create new coins, and distribute premine between Hubcoin owners.
+We going to create coins with unique features and fresh ideas.
+We must cope this, as everyone from our team is altcoin developer and have necessary eperiecne
+We will create coin  every 6 month.

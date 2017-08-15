@@ -1,0 +1,1 @@
+<h1>Hubcoin ICO finished, 7.8btc rised.</h1><br><br><p>Following ICO terms CoinExchange.io admin planted ~3 btc buy wall on 7500 satoshi. After 3 days wall will disappear, unsold 2,900,000 Hubcoins will be burned and deposits + withdrawals will be enabled. </p>

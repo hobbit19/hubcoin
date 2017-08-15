@@ -1,0 +1,42 @@
+The Hubcoin is developed and managed by a group of altcoin developers with a strong sense of mutual committment creating synergy. It is a strong team with a full set of complementary skills required to complete and run the project.
+
+The project aims to acheieve the set milestones as per the generated fundings. These are shown below:
+
+
+1) 2 BTC: Coin tracking service like coinmarketcap.com or coinwarz will be created. This will offer the user to sort coins by algorithm and will list new coins much faster.
+
+2) 4 BTC: Hosting for interested altcoin developer will be setup for free and at a small charge of Hubcoin payment it will also be available for
+for non-developers. Additional services like website creation, DDOS defense,etc. will also be provided.
+It will allow the coin creators to add their coins to our above stated services at no cost.
+
+3) 6 BTC: We will create Block Explorers for Altcoins who do not have their own and require one. Coin Creators would be able to add their own coins to our service for free. Premium Features including urgent coin additions and priority coin listing will be available for payment in Hubcoin. 
+
+4) 8 BTC: Pool creation for coins requiring it will be available.
+It will allow the coin creators to add their coins to our above stated services at no cost.
+Premium features and priority coin listing will be avaliable for fixed Hubcoin payment.
+
+5) 12 BTC: Node maintainence service will be created at this stage.
+First 3 altcoin developers will get this service for free.
+Later will be available for a little Hubcoin payment.
+
+6) 20 BTC: Desktop and webwallet service will be provided.
+It will be free for altcoin developers.
+Premium features will be available for a fixed Hubcoin payment.
+
+7) 30 BTC: Android  wallet creation service will be available.
+It will be free for altcoin developers.
+Premium features will be available for a fixed Hubcoin payment.
+
+8) 50 BTC: The Hubcoin team will start their own coin creation service.
+It will be free of charges with 10% premine share.
+A strong service will be craeted to support much more algorithm and possibilities than other services.
+Creation of coin without any premine or with custom premine will also be possible at a fixed Hubcoin payment.
+
+9) 100 BTC: Promotional services for coins will be created enabling facilities like voting to secure more recognition. 
+Other promotional services such as press releases, social media, signature campaigns, advertisment, faceouts search for investors, etc. will be provided.
+Sometimes several technically sound and great coins do not get noticed but our promotional services will minimise the risk of coins from being unnoticed.
+Hubcoin owners will be able to vote by paying Hubcoin and choose coins for promotion.
+
+10) 200+ BTC: Reviving support for unsuccessful coins will be provided by repairing stuck block chains, connection issues, hardforks, creating websites, adding block-explorers and services, and a full work on the coin.
+Hubcoin owners will be able to vote by paying Hubcoin and choose coin for reviving every 3 month.
+
